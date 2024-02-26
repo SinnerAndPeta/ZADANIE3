@@ -11,7 +11,7 @@
         <Label Content="Пароль:" HorizontalAlignment="Left" Margin="18,55,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Margin="78,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="134"/>
         <TextBox HorizontalAlignment="Left" Margin="78,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="134"/>
-        <Button Content="Вперед" HorizontalAlignment="Left" Margin="14,102,0,0" VerticalAlignment="Top" Width="80"/>
+        <Button Content="Вперед" HorizontalAlignment="Left" Margin="71,102,0,0" VerticalAlignment="Top" Width="80"/>
         <Button Content="Назад" HorizontalAlignment="Left" Margin="156,102,0,0" VerticalAlignment="Top" Width="80"/>
 
     </Grid>
