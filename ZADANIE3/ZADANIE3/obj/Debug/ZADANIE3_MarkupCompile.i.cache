@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Wpf45\ZADANIE3\ZADANIE3\ZADANIE3\obj\Debug\
+D:\git\pr3\ZADANIE3\ZADANIE3\obj\Debug\
 ZADANIE3
 none
 false
 DEBUG;TRACE
-C:\Wpf45\ZADANIE3\ZADANIE3\ZADANIE3\App.xaml
-21536316194
+D:\git\pr3\ZADANIE3\ZADANIE3\App.xaml
+2568099956
 
-7-54362374
-13-1505183044
-MainWindow.xaml;Pages\OhotnikovPage.xaml;
+7-2142445600
+13-1310406943
+MainWindow.xaml;Pages\KomovaPages.xaml;
 
-False
+True
 
